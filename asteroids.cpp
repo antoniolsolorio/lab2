@@ -1,7 +1,7 @@
 //
 //
 //
-//
+//Modified by: Antonio Solorio
 //program: asteroids.cpp
 //author:  Gordon Griesel
 //date:    2014 - 2018
